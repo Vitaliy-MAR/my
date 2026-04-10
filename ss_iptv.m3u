@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="125" group="Rutube 2" logo="http://rafail1982.uz/logo/Первый канал HD.png", Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
+#EXTINF:0 type="favorites" channelId="2" shift="1" catchup-days="-1", Россия 1 +1
+https://livetv.mylifeisgood.net.ru/channels/russia1-1.m3u8
+#EXTINF:0 type="favorites" channelId="498" group="Rutube 2" logo="http://rafail1982.uz/logo/НТВ HD.png", НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5FB6LF5iVXO3ikWKlv1NA&e=2068506931&scheme=https
+#EXTINF:0 type="favorites" channelId="4" group="Rutube 2" logo="http://rafail1982.uz/logo/Матч ТВ HD.png", Матч ТВ HD
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=dmUCxHrffLTIK5v-vKhGXQ&e=2068506970&scheme=https
+#EXTINF:0 type="favorites" channelId="17" group="Rutube 2" logo="http://rafail1982.uz/logo/Звезда.png", Звезда
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=B5UC4a5VIaBkBRD9yIHZPw&e=2068506945&scheme=https
+#EXTINF:0 type="favorites" channelId="5" group="АСАРТА (VPN)", Россия К
+http://5.188.221.43:8080/play/rossia_k
+#EXTINF:0 type="favorites" channelId="10" group="С сайтов (VPN)", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:0 type="favorites" channelId="11" group="АСАРТА (VPN)", Рен ТВ
+http://5.188.221.43:8080/play/ren-tv
+#EXTINF:0 type="favorites" channelId="244" group="Rutube 2", Спас
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=Dh7uOoGZBCslhSfLLkxvAg&e=2068506963&scheme=https
+#EXTINF:0 type="favorites" channelId="35" catchup-days="-1", Союз
+http://193.25.8.59:8000/soyuz
+#EXTINF:0 type="favorites" channelId="12" group="4.ЭФИРНЫЕ ⓵" logo="http://rafail1982.uz/logo/СТС.png", СТС
+http://mfe02.cliptv.az/dash/STS_SDshl247h.ism/playlist.mpd
+#EXTINF:0 type="favorites" channelId="26" group="Rutube 2", Пятница HD
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=_yz_YDE4Btiqou_OQdtUaQ&e=2068506932&scheme=https
+#EXTINF:0 type="favorites" channelId="8" group="Rutube 2" logo="http://rafail1982.uz/logo/ТВ3 HD.png", ТВ3 HD
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
+#EXTINF:0 type="favorites" channelId="3630" group="Rutube 2" logo="http://rafail1982.uz/logo/ТНТ HD.png", ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
+#EXTINF:0 type="favorites" channelId="77" group="Rutube 2" logo="http://rafail1982.uz/logo/ТНТ4 HD.png", ТНТ4 HD
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=gSfZr_b1wBE3aUNAD0mlXA&e=2068506932&scheme=https
+#EXTINF:0 type="favorites" channelId="138" group="Rutube 2" logo="http://rafail1982.uz/logo/Мир.png", Мир
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=2w3jRjKwo4dZjoiOyvX3GA&e=2068506951&scheme=https
+#EXTINF:0 type="favorites" channelId="589" group="50.RUTUBE ⌚", МИР 24 HD
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=lswkUz3NQQHnD-a8WTcTEw&e=2066519806&scheme=https
+#EXTINF:0 type="favorites" channelId="9" group="Rutube (VPN)", РБК
+https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=K5EEgXVhFeORkIRIRry_Xw&e=2068117996&scheme=https
+#EXTINF:0 type="favorites" channelId="1104" catchup-days="-1", ИЗВЕСТИЯ
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.m3u8
+#EXTINF:0 type="favorites" channelId="6" logo="http://rafail1982.uz/logo/НТВ +2.png" shift="2" catchup-days="-1", НТВ +2
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="6" logo="http://rafail1982.uz/logo/НТВ +4.png" shift="4" catchup-days="-1", НТВ +4
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3160" logo="http://rafail1982.uz/logo/НТВ Сериал.png" catchup-days="-1", НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3865" logo="http://rafail1982.uz/logo/НТВ Хит.png" catchup-days="-1", НТВ Хит
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3161" logo="http://rafail1982.uz/logo/НТВ Стиль.png" catchup-days="-1", НТВ-Стиль
+https://cdn.ntv.ru/th_style/playlist.m3u8
