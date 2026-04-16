@@ -44,6 +44,6 @@ https://cdn.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="3160" logo="http://rafail1982.uz/logo/НТВ Сериал.png" catchup-days="-1", НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="3865" logo="http://rafail1982.uz/logo/НТВ Хит.png" catchup-days="-1", НТВ Хит
-https://cdn.ntv.ru/th_hit/playlist.m3u8
+http://vip.tvua.biz/ostrosjuzhetnoe_1.m3u8
 #EXTINF:0 type="favorites" channelId="3161" logo="http://rafail1982.uz/logo/НТВ Стиль.png" catchup-days="-1", НТВ-Стиль
 https://cdn.ntv.ru/th_style/playlist.m3u8
